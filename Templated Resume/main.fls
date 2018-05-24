@@ -278,8 +278,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-RegIta-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Reg-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesomethree.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Bol-t1.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Reg-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Bol-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Reg-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
@@ -312,10 +312,10 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/lato/Lato-Reg-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Reg-01.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Reg-dotlessj.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Reg-02.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/lato/Lato-Reg-t1.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Reg-01.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Reg-dotlessj.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Reg-02.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/lato/Lato-Bol-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Bol-01.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Bol-dotlessj.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Bol-02.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/lato/Lato-Reg-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Reg-01.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/lato/Lato-Reg-dotlessj.tfm
